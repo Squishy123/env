@@ -1,0 +1,1 @@
+Scripts and env variables I use for my setup in windows 10

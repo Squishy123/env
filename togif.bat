@@ -1,0 +1,1 @@
+ffmpeg -i %1 -vf "fps=60" -loop 0 %1.gif
